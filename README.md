@@ -1,9 +1,15 @@
 # Service Mesh com Istio
 
-### Instalação necessária
+## Instalações necessárias
 
-Dê preferência utilize o Linux ou Windows com WSL: 
+**Necessário utilizar o Linux**
+
+Baixe o k3d: 
 https://k3d.io/v5.6.3/#installation
+
+Baixe o Istio:
+https://istio.io/latest/docs/setup/getting-started/
+- Necessário criar o `$PATH` na pasta `bin` do Istio.
 
 ### Criando cluster
 
